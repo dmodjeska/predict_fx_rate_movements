@@ -1,0 +1,53 @@
+---
+title: Final Project - ARIMA Models
+subtitle: "David Modjeska and Dominic Murphy, Harvard CS102, Autumn 2017"
+date: "December 2017"
+output: pdf_document
+urlcolor: blue
+linkcolor: blue
+---
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(cache = TRUE, echo = FALSE, warning = FALSE, error = FALSE, message = FALSE, comment = NA)
+
+library(knitr)
+library(forecast)
+
+countries <- c('AU', 'CA', 'EU', 'JP', 'CH', 'UK')
+
+```
+
+```{r do_arima_func}
+
+do_arima_func <- function(country) {
+    file <- paste('data/', country, '_FX.csv', sep = '')
+    raw_data <- read.csv(file, col.names = c('Date', 'Value'))
+
+    y = raw_data$Value
+    fit <- auto.arima(y,
+                      stationary = TRUE,
+                      seasonal = TRUE,
+                      stepwise = TRUE,
+                      approximation = TRUE)
+    plot(forecast(fit, h = 20), sub = country)
+    
+    cat('ARIMA FIT\n\n')
+    print(fit)
+}
+
+```
+
+```{r do_all_arima}
+
+for (i in (1:length(countries))) {
+    cat(' \n')   
+    cat('--------------------------------------------------------\n')
+    cat(' \n')   
+    
+    do_arima_func(countries[i])
+}
+
+```
+
+
