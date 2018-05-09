@@ -4,12 +4,21 @@ FX rates are challenging for prediction, but potentially lucrative and intrinsic
 
 ## Report and Presentation
 
-* [Final Report](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/13_Report_B.pdf)
-* [Final Presentation](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/14_Presentation_Modjeska_Murphy_Dec14_C_1.key)
+* [Final Report (PDF)](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/13_Report_B.pdf)
+* [Final Presentation (Keynote)](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/14_Presentation_Modjeska_Murphy_Dec14_C_1.key)
 
 ## Code before Report
 
-* [M1: Data Extraction and Manipulation of IMDb Text Files](https://github.com/dmodjeska/cs109b/blob/master/Code/M1_IMDb_EDA.ipynb)
+* [Data Acquisition (by Dominic Murphy)](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_Before_Report/01_DataAquisition_10Dec2017_C.py)
+* [Data Acquisition](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_Before_Report/01_DataAquisition_10Dec2017_C.py)
+* [Data Acquisition](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_Before_Report/01_DataAquisition_10Dec2017_C.py)
+* [Data Acquisition](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_Before_Report/01_DataAquisition_10Dec2017_C.py)
+* [Data Acquisition](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_Before_Report/01_DataAquisition_10Dec2017_C.py)
+* [Data Acquisition](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_Before_Report/01_DataAquisition_10Dec2017_C.py)
+* [Data Acquisition](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_Before_Report/01_DataAquisition_10Dec2017_C.py)
+* [Data Acquisition](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_Before_Report/01_DataAquisition_10Dec2017_C.py)
+* [Data Acquisition](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_Before_Report/01_DataAquisition_10Dec2017_C.py)
+* [Data Acquisition](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_Before_Report/01_DataAquisition_10Dec2017_C.py)
 
 ## Code after Report
 
