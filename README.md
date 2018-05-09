@@ -7,7 +7,7 @@ FX rates are challenging for prediction, but potentially lucrative and intrinsic
 * [Final Report (PDF)](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/13_Report_B.pdf)
 * [Final Presentation (Keynote)](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/14_Presentation_Modjeska_Murphy_Dec14_C_1.key)
 
-## Code before Report
+## Code before Final Report
 
 * [Data Acquisition (by Dominic Murphy)](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_Before_Report/01_DataAquisition_10Dec2017_C.py)
 * [Data Exploration](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_Before_Report/02_Exploration_10Dec2017B.ipynb)
@@ -23,7 +23,7 @@ FX rates are challenging for prediction, but potentially lucrative and intrinsic
 * [FFNN Classification](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_Before_Report/11_FFNN_C_12Dec2017A.ipynb)
 * [Prediction Scores Summary for Classification](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_Before_Report/12_Summary_12Dec2017B.ipynb)
 
-## Code after Report
+## Code after Final Report
 
 * [Random Forest Classification](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_After_Report/09_RFC_6Jan2018.ipynb)
 * [Support Vector Machine (Feature Selection)](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_After_Report/09_SVM_17Jan2018_Features2.ipynb)
