@@ -25,4 +25,10 @@ FX rates are challenging for prediction, but potentially lucrative and intrinsic
 
 ## Code after Report
 
+* [Random Forest Classification](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_After_Report/09_RFC_6Jan2018.ipynb)
+* [Support Vector Machine (Feature Selection](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_After_Report/09_SVM_17Jan2018_Features2.ipynb)
+* [Support Vector Machine (Hyperparameter Tuning](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_After_Report/09_SVM_17Jan2018_Hyperparameters.ipynb)
+* [XGBoost Classification](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_After_Report/09_XGBC_6Jan2018.ipynb)
+* [Prediction Scores Summary for Classification](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_After_Report/12_Summary_14Jan2018.ipynb)
+
 
