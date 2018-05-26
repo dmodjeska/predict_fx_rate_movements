@@ -33,5 +33,5 @@ FX rates are challenging for prediction, but potentially lucrative and intrinsic
 
 ## Etc.
 
-#### Summary Graphs
-!["Summary Graphs (AUC)"](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/summary_graphs.png "Summary Graphs")
+#### Summary Graphs (AUC)
+!["Summary Graphs (AUC)"](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/summary_graphs.png "Summary Graphs (AUC)")
