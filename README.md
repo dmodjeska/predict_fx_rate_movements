@@ -31,4 +31,7 @@ FX rates are challenging for prediction, but potentially lucrative and intrinsic
 * [XGBoost Classification](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_After_Report/09_XGBC_6Jan2018.ipynb)
 * [Prediction Scores Summary for Classification](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/Code_After_Report/12_Summary_14Jan2018.ipynb)
 
+## Etc.
 
+#### Summary Graphs
+!["Summary Graphs (AUC)"](https://github.com/dmodjeska/predict_fx_rate_movements/blob/master/summary_graphs.png "Summary Graphs")
